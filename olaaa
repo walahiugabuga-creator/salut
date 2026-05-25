@@ -14,14 +14,14 @@
     
     :root {
       /*FrostedGlass*/
-      --background-image: url('https://i.imgur.com/PfEcoHs.jpeg');
+      --background-image: url('https://i.imgur.com/0xXvkvV.png');
       --background-image-blur: 0px;
       --background-image-size: cover;
       --background-image-position: center;
-      --small-user-popout-background-image: url('blob:https://imgur.com/6491bb22-6789-4425-b172-36d5333302c0');
+      --small-user-popout-background-image: url('blob:https://i.imgur.com/0xXvkvV.png');
       --small-user-popout-background-transparency: #00000099;
       --small-user-popout-background-image-position: top;
-      --home-button-image: url('https://i.imgur.com/PfEcoHs.jpeg');
+      --home-button-image: url('https://i.imgur.com/0xXvkvV.png');
       --home-button-size: cover;
       --home-button-position: center;
       --serverlist-brightness: 0;
